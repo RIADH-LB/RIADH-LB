@@ -1,7 +1,5 @@
 ![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 
-  ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
-
 # 👋 Hey there, I'm Larbi Bouamrane Riadh
 
 **Back-End Developer | Computer Science student at ESI-SBA**
