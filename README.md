@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/d871e94c-8fb7-4704-af19-c372ac5b1e0a)
 <p align="center">
   <img src="welcome.gif" alt="Coding GIF" width="800"/>
 </p>
