@@ -1,7 +1,6 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=27514247718492127" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
-<p align="center">
-  <img src="welcome.gif" alt="Coding GIF" width="800"/>
-</p>
+![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
+
+  ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
 
 # 👋 Hey there, I'm Larbi Bouamrane Riadh
 
